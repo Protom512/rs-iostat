@@ -1,0 +1,67 @@
+Linux 5.4.0-99-generic (mm) 	02/12/22 	_x86_64_	(2 CPU)
+
+02/12/22 03:06:45
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.22    0.04    2.68    0.11    0.00   95.95
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+loop0             0.71         0.84         0.00         0.00       1965          0          0
+loop1             0.03         0.48         0.00         0.00       1107          0          0
+loop2             8.78         8.91         0.00         0.00      20732          0          0
+loop3             0.00         0.01         0.00         0.00         13          0          0
+sda              10.85       212.64      1404.20         0.00     495049    3269081          0
+scd0              0.03         0.11         0.00         0.00        252          0          0
+
+
+02/12/22 03:06:46
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    3.03    0.00   96.97
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+loop0             0.00         0.00         0.00         0.00          0          0          0
+loop1             0.00         0.00         0.00         0.00          0          0          0
+loop2             0.00         0.00         0.00         0.00          0          0          0
+loop3             0.00         0.00         0.00         0.00          0          0          0
+sda               2.00         0.00        36.00         0.00          0         36          0
+scd0              0.00         0.00         0.00         0.00          0          0          0
+
+
+02/12/22 03:06:47
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+loop0             0.00         0.00         0.00         0.00          0          0          0
+loop1             0.00         0.00         0.00         0.00          0          0          0
+loop2             0.00         0.00         0.00         0.00          0          0          0
+loop3             0.00         0.00         0.00         0.00          0          0          0
+sda               0.00         0.00         0.00         0.00          0          0          0
+scd0              0.00         0.00         0.00         0.00          0          0          0
+
+
+02/12/22 03:06:48
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+loop0             0.00         0.00         0.00         0.00          0          0          0
+loop1             0.00         0.00         0.00         0.00          0          0          0
+loop2             0.00         0.00         0.00         0.00          0          0          0
+loop3             0.00         0.00         0.00         0.00          0          0          0
+sda               0.00         0.00         0.00         0.00          0          0          0
+scd0              0.00         0.00         0.00         0.00          0          0          0
+
+
+02/12/22 03:06:49
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+loop0             0.00         0.00         0.00         0.00          0          0          0
+loop1             0.00         0.00         0.00         0.00          0          0          0
+loop2             0.00         0.00         0.00         0.00          0          0          0
+loop3             0.00         0.00         0.00         0.00          0          0          0
+sda               0.00         0.00         0.00         0.00          0          0          0
+scd0              0.00         0.00         0.00         0.00          0          0          0
+
+

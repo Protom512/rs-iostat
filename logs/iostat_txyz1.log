@@ -1,0 +1,38 @@
+Linux 5.4.0-99-generic (mm) 	02/12/22 	_x86_64_	(2 CPU)
+
+
+02/12/22 03:06:20
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+02/12/22 03:06:21
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+02/12/22 03:06:22
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+02/12/22 03:06:23
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+02/12/22 03:06:24
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.00    0.00    0.00  100.00
+
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
